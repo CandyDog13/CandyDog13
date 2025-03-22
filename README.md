@@ -1,5 +1,5 @@
 ## Frontend Developer
-#### Stack: • JavaScript • TypeScript • React 
+#### Stack: • JavaScript • TypeScript • React • Angular 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Меня всегда привлекала разработка интерфейсов и поэтому я начал изучать html, css, js и все это
 привело к освоению React и созданию SPA web-приложений. Занимаюсь разработкой постоянно,
